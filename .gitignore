@@ -1,0 +1,8 @@
+.env
+__pycache__/
+data.json
+desktop.ini
+*.pdf
+*.xlsx
+*.dwg
+demo_result.dxf
